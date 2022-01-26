@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31321.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CFX.Services.GenCardFile", "CFX.Services.GenCardFile\CFX.Services.GenCardFile.csproj", "{DE71C430-85C4-4A41-8197-AEF1C4D52180}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CFX.Services.GenCardFile.BusinessLogic", "CFX.Services.GenCardFile.BusinessLogic\CFX.Services.GenCardFile.BusinessLogic.csproj", "{2D9A8A54-A355-41AD-9F35-27E47A7D6A17}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE71C430-85C4-4A41-8197-AEF1C4D52180}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE71C430-85C4-4A41-8197-AEF1C4D52180}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE71C430-85C4-4A41-8197-AEF1C4D52180}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE71C430-85C4-4A41-8197-AEF1C4D52180}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D9A8A54-A355-41AD-9F35-27E47A7D6A17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D9A8A54-A355-41AD-9F35-27E47A7D6A17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D9A8A54-A355-41AD-9F35-27E47A7D6A17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D9A8A54-A355-41AD-9F35-27E47A7D6A17}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {350E900D-ADB4-45BA-95E3-10C785A671F9}
+	EndGlobalSection
+EndGlobal
